@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8">
+    <style>
+
+body{
+    margin: 0;
+}
+
+div {
+    margin-top: 20px;
+    padding: 20px;
+    text-align: justify;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: gray;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+li {
+    float: left;
+    border-right: 1px solid red;
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.active {
+    background-color: greenyellow;
+}
+li a:hover:not(.active) {
+    background-color: red;
+}
+
+li:last-child {
+    border-right: none;
+    float: right;
+}
+</style>
+</head>
+<body>
+<ul>
+    <li> <a href="home">Home</a></li>
+    <li> <a href="lineup">Lineup</a></li>
+    <li> <a href="ticket">Tickets</a></li>
+    <li> <a href="news">News</a></li>
+    <li> <a href="access">Access</a></li>
+    <li> <a class="active" href="contact">Contact</a></li>
+</ul>
+<img src="C:\Users\ksraf\OneDrive\Área de Trabalho\Prof Elaine Prograçao\imagens\digraca.jpg">
+
+</body>
+</html>

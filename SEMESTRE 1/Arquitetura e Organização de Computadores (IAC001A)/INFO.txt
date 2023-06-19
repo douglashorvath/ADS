@@ -1,0 +1,14 @@
+Arquitetura e Organização de Computadores (IAC001A)
+
+PROFESSOR: RODRIGO VILELA DA ROCHA
+
+BIBLIOGRAFIA	
+ 	
+ 	HEURING, V. P. & MURDOCA, M. J. Introdução à Arquitetura de Computadores. Editora Campus, Rio de Janeiro, 2001.
+ 	 
+ 	TANENBAUM, A. S. Organização estruturada de computadores. Editora Pearson, 5ª Edição, 2007.
+ 	 
+ 	STALLINGS, William. Arquitetura e Organização de Computadores. 5.ed. Prentice-Hall Brasil, 2008.
+ 	 
+ 	TOCCI, Ronald J. Sistemas digitais: princípios e aplicações. 10.ed. Pearson Brasil, 2007.
+	

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+<style>
+    * {
+        font-family: Arial, Arial, Helvetica, sans-serif;
+    }
+body {
+    margin: 0;
+    font-size: 120%;
+}
+header h2{
+    position: relative;
+    top:50px;
+    margin-left: 10px;
+}
+/*barra de navegação*/
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: black;
+    z-index: 1
+}
+li a {
+    float: left;
+    display: inline-block;
+    color: white;
+    text-align: justify;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: ghostwhite;
+    color: black;
+}
+/*article*/
+#main {
+    position: relative;
+    top: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: justify;
+}
+/*footer*/
+footer {
+    position: relative;
+    top: 50px;
+    background: black;
+    color: white;
+}
+/*tela menor que 600px, vertical */
+@media screen and (max-width:600px){
+    li a{
+        float: none;
+        width: 100%;
+    }
+    #main {
+        margin-top: 190px;
+    }
+    header h2 {
+        position: relative;
+        top: 230px;
+    }
+}
+</style>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href=#>Home</a></li>
+                <li><a href=#>Quem Somos</a></li>
+                <li><a href=#cursos>Cursos</a></li>
+                <li><a href=#contato>Contato</a></li>
+                <li><a href=#>Cadastro</a></li>
+            </ul>
+        </nav>
+    <h2> Lorem ipsum dolor</h2>
+    </header>
+<article id="main">
+    <h1>Lorem ipsum dolor</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin feugiat maximus finibus. Pellentesque eget fermentum magna, id dignissim elit. Aenean nec nulla sed nisi ultrices lobortis. Fusce vel aliquam orci. Praesent fermentum nibh non ex interdum, at rhoncus mi aliquet. Aliquam feugiat finibus porttitor. Proin eu lorem ac risus finibus varius.
+
+        Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque porta enim at porta congue. Nam porta ligula orci. Etiam eu quam rhoncus, sodales metus ac, auctor orci. Ut maximus diam metus, a mattis erat malesuada a. Integer a aliquam nulla, at vulputate augue. Phasellus mollis, sem vitae tempus bibendum, velit magna venenatis orci, vitae blandit sem dolor ut est. Maecenas eget posuere risus. Proin eleifend vitae lacus nec tristique. Aenean id dictum velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;
+        
+        Sed vitae feugiat odio, mattis condimentum ex. Nam dictum eget metus id iaculis. Quisque porta rutrum ultrices. Sed ullamcorper, tortor in maximus faucibus, quam ante blandit sapien, quis pellentesque sapien enim sed lectus. Aenean efficitur scelerisque lorem, id sodales tellus blandit viverra. Mauris quis est vel arcu gravida vestibulum et ac ante. Nunc in dapibus tortor. Pellentesque blandit metus quis vestibulum tristique. Curabitur viverra iaculis lorem, id convallis augue imperdiet ut. Fusce est velit, egestas sit amet commodo quis, pellentesque vel ligula. Vivamus rhoncus congue felis sed congue. Mauris iaculis iaculis ornare.
+        
+        Donec a cursus nibh, nec maximus lorem. Vivamus lacus nisl, molestie ut congue ut, tincidunt a felis. Nullam malesuada eleifend magna, ut vestibulum ipsum. Quisque a accumsan dolor, id euismod nisl. Pellentesque porttitor interdum leo laoreet euismod. Aliquam erat volutpat. Ut volutpat bibendum condimentum. Proin felis tellus, viverra sit amet auctor quis, tincidunt non quam. In porta scelerisque elit in luctus. In facilisis ultrices efficitur.
+        
+        Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque et risus aliquam, imperdiet tellus non, porta tortor. Morbi placerat fermentum risus, a placerat lacus feugiat nec. Morbi vulputate mollis risus, at pharetra orci pretium quis. Sed eget ipsum accumsan, condimentum magna ut, tincidunt tortor. Fusce tincidunt, turpis in finibus mollis, nulla tortor interdum turpis, id lacinia eros metus id nunc. Ut ac augue at ipsum fringilla dapibus. Nam commodo tortor neque, at consectetur eros placerat id. Praesent vestibulum est eu bibendum imperdiet. Donec tempus ultrices lorem at faucibus. Nulla convallis purus sapien, nec faucibus elit lacinia aliquet. Suspendisse pharetra sodales nunc, in tincidunt orci sollicitudin eget. Mauris molestie fermentum nisl, vel vehicula dui. In lobortis bibendum nisl, et hendrerit ipsum vehicula at. Pellentesque iaculis libero a euismod rhoncus. Morbi sollicitudin mauris ante, id gravida tellus fermentum vitae.</p>
+</article>
+<footer>
+    <p>&copy; 2021 0 Aliquam justo nisi, bibendum</p>
+</footer>
+</body>
+</html>

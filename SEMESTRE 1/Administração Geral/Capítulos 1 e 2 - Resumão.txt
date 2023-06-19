@@ -1,0 +1,59 @@
+Organizações: Grupos estruturados de pessoas com objetivo comum, tem finalidade ou propósito de existir e uma estrutura.
+
+Administração: Coordenação das pessoas da organização e alocação de recursos, base em eficiência e Eficácia:
+	-Eficiência: Fazer mais com menos. Foco no processo.
+	-Eficácia: Atingir os objetivos. Foco no resultado.
+	-Efetividade: União da eficiência com a eficácia.
+
+Administrador: Responsável pela coordenação da organização em diversos níveis, alocar recursos e ajudar os trabalhadores a alcançar os objetivos da organização.
+
+Níveis Organizaçionais:
+	Estratégico - Habilidades Conceituais;
+	Tático - Habilidades Humanas;
+	Organizacional - Habilidades Técnicas;
+
+Processos: Ciclo (Planejar -> Organizar -> Dirigir -> Controlar)
+Áreas Funcionais: Produção e Operações, Marketing e Comercial, Finanças e RH.
+
+Papéis do Administrador
+	Interpessoais - Símbolo, Líder e Elemento de ligação
+	Informacionais - Monitor, Disseminador e Porta-Voz
+	Decisórios - Empreendedor, Solucionador de Conflitos, Administrador de Recursos, Negociador
+
+Administrador Brasileiro:
+	Principal Característica - Impunidade;
+	Concentração de Poder + Personalismo (ponto de referência no pessoal) = Paternalismo (postura paternal, engessa estruturas);
+	Postura de Expectador (reativo) + Aversão ao Conflito = Flexibilidade;
+	Formalismo (formalidade desnecessária, ex: uniforme para trabalhador interno) e Lealdade Pessoal.
+
+Desafios dos administrador: 
+	- Trabalho complexo;
+	- Lidar com pessoas;
+	- Motivar Subordinados;
+	- Decisões difíceis sobre recursos escassos;
+	- Depende dos outros;
+
+Teorias da Administração - Influenciam a prática e servem como fonte de compreensão.
+	Ciclo das Consequências (Mudança -> Frustração(resistência) -> Adaptação)
+	O inicio do pensamento administrativo veio com:
+		- Revolução industrial;
+		- Consolidação do capitalismo;
+		- Fortalecimento do comércio;
+		- Surgimento das máquinas e indústria;
+		- Especialização do trabalho;
+		- Centralização do poder e recursos;
+		- Trabalho assalariado;
+	
+Escola Clássica:
+	Administração científica - Desperdiça eficiência e eficácia, vê o homem como essencialmente egoista e racional, com motivação puramente material, organização como sistema fechado, visão da administração como ciência objetiva e fechada.
+	Gestão Administrativa - Empresas altamente hierárquicas, organização como sistema fechado, visão da administração como ciência objetiva e fechada, administração pode ser treinada e desenvolvida como profissão.
+	Teoria da Burocracia - Modelo ideal, organização como sistema fechado, lógica científica, redução de favoritismos e clientelismos.
+
+Enfoque Comportamental:
+	Escola das Relações Humanas - Homem social, organização como sistema fechado, organização como sistema social.
+	Abordagem Comportamental - Homem complexo, organização como sistema fechado, foco nos individuos e relação com contexto.
+	Abordagem Quantitativa - A maioria dos problemas de administração pode ser modelada quantitativamente, ou seja, reduzido em números, organização como sistema fechado.
+
+Teoria dos Sistemas e Enfoque Contingencial:
+	Teoria dos Sistemas - organização como sistema aberto, interagem com os sistemas e o ambiente ao redor, desmistifica a "ótima solução administrativa" mas não oferece nenhum tipo de direcionamento.
+	Enfoque Contingencial - organização como sistema aberto, não existe única melhor maneira de administrar, várias formas de alcançar objetivo, pesquisas empíricas para criar métodos administrativos, alta relativização.
